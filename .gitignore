@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+private/
+learning-data/
+session-notes/
+*.private.md

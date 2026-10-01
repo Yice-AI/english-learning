@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语陪练"
+  short_description: "三种英语练习模式，结合跟读纠错、动态难度和跨会话学习记录"
+  default_prompt: "请使用 $english-learning 继续我的英语练习，根据可读取的学习记录进入合适模式。"
